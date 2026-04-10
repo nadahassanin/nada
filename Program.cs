@@ -39,7 +39,11 @@ namespace ConsoleApp8
             // Answer: 11
             // Why: It takes 10 and adds 1 to it.
             #endregion
-           
+            #region Q7
+            // Answer: Error.
+            // How to fix: long x = Convert.ToInt64(o);
+            #endregion
+
 
         }
     }
