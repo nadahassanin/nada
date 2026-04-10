@@ -44,7 +44,10 @@ namespace ConsoleApp8
             // How to fix: long x = Convert.ToInt64(o);
             #endregion
 
-
+            #region Q8
+            // Fix:
+            //long x = (o is int) ? (int)o : -1;
+            #endregion
         }
     }
 }
