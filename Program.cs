@@ -52,6 +52,10 @@ namespace ConsoleApp8
             // Answer: Blank (Nothing)
             // Why: Because the name is empty (null)
             #endregion
+            #region Q10
+            // Answer: 0
+            
+            #endregion
         }
     }
 }
