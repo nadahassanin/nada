@@ -60,6 +60,10 @@ namespace ConsoleApp8
             // What's wrong: It still crashes if the user types letters.
             // Solution: Use TryParse.
             #endregion
+            #region Q12
+            // Answer: It will crash.
+           
+            #endregion
         }
     }
 }
